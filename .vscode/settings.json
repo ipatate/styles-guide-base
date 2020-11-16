@@ -1,0 +1,26 @@
+{
+  // "editor.formatOnSave": true,
+  "workbench.colorCustomizations": {
+    "list.activeSelectionBackground": "#e63612",
+    "list.activeSelectionForeground": "#fff",
+    "activityBar.background": "#37526f99",
+    "activityBar.activeBorder": "#b56a8e",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#b56a8e",
+    "activityBarBadge.foreground": "#15202b",
+    "titleBar.activeBackground": "#26394d99",
+    "titleBar.inactiveBackground": "#26394d99",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "statusBar.background": "#26394d99",
+    "statusBarItem.hoverBackground": "#37526f99",
+    "statusBar.foreground": "#e7e7e7",
+    "activityBar.activeBackground": "#37526f99"
+},
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "peacock.color": "#26394d99",
+  "eslint.enable": false
+  // "javascript.implicitProjectConfig.checkJs": true
+}
